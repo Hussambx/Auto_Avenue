@@ -1,9 +1,14 @@
 # Auto Avenue
 
-Welcome to **Auto Avenue**, launching in **Q4 2024**!
+Welcome to **Auto Avenue**, launching in **Q1 2025**! 🚀
+
+## View The Site
+[Visit Auto Avenue](https://autoavenue.app/)
 
 ## Showcase Video
 [Watch the showcase video here!](https://youtu.be/gkAwzsI395c)
+
+
 
 ---
 
